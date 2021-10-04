@@ -1,2 +1,1 @@
-# starlabs
-StarLabs assignments
+# Starlabs assignments
